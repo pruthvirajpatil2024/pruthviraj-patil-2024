@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Patil</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-![logo]([GIT_HUB _BANNER.png](https://github.com/pruthvirajpatil2024/pruthviraj-patil-2024/blob/main/GIT_HUB _BANNER.png))
+![logo](https://raw.githubusercontent.com/pruthvirajpatil2024/pruthviraj-patil-2024/main/GIT_HUB%20_BANNER.png)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pruthvirajpatil2024&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
