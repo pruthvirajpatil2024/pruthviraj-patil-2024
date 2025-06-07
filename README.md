@@ -1,27 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Patil</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Devloper</h3>
 
 ![logo](https://raw.githubusercontent.com/pruthvirajpatil2024/pruthviraj-patil-2024/main/GIT_HUB%20_BANNER.png)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pruthvirajpatil2024&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvirajpatil2024&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvirajpatil2024&locale=en&rank_icon=github&bg_color=fff&title_color=000&text_color=000" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajpatil2024" alt="GitHub Streak" />
-</p>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
